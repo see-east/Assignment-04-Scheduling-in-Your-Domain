@@ -1,0 +1,7 @@
+time_period,demand_required,cost_per_unit
+Early Morning (12am-4am),2,38
+Morning Rush (4am-8am),8,45
+Mid Morning (8am-12pm),6,42
+Afternoon (12pm-4pm),5,40
+Evening Rush (4pm-8pm),9,47
+Late Evening (8pm-12am),3,39
